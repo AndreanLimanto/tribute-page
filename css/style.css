@@ -1,0 +1,68 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  background-image: url(https://images4.imagebam.com/8a/a3/67/ME49QSL_o.png);
+  min-height: 100vh;
+}
+
+#main {
+  max-width: 650px;
+  margin: auto;
+  padding-top:30px;
+  padding-bottom: 30px;
+  border: 10px double white;
+  border-radius: 35px;
+  background-color: black;
+  background-image: url(https://images4.imagebam.com/af/19/40/ME49QT1_o.jpg);
+  color: white;
+  font-family: verdana, sans-serif;
+  overflow: auto;
+  }
+
+#title, h2, #img-caption {
+  max-width: 650px;
+  padding: 0 50px 15px;
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 5px;
+}
+
+#img-caption {
+  max-width: 370px;
+  font-size: 14px;
+  margin: 0 auto;
+}
+
+#tribute-info {
+  max-width: 650px;
+  padding: 0 50px 0;
+  margin: 15px auto;
+  font-size: 16px;
+}
+
+.about {
+  text-indent: 35px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  text-align: justify;
+  line-height: 1.25;
+}
+
+ul{
+  text-align: left;
+  line-height: 1.5;
+  font-size: 14px;
+  padding-left: 25px;
+}
