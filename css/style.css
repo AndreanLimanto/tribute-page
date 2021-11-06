@@ -6,7 +6,7 @@
 
 body {
   background-color: black;
-  background-image: url(https://images4.imagebam.com/8a/a3/67/ME49QSL_o.png);
+  background-image: url(../img/bg1.png);
   min-height: 100vh;
 }
 
@@ -18,7 +18,7 @@ body {
   border: 10px double white;
   border-radius: 35px;
   background-color: black;
-  background-image: url(https://images4.imagebam.com/af/19/40/ME49QT1_o.jpg);
+  background-image: url(../img/bg2.jpg);
   color: white;
   font-family: verdana, sans-serif;
   overflow: auto;
